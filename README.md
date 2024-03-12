@@ -1,6 +1,6 @@
 # Data Analytics Portfolio Projects
 
-Welcome to my Data Analytics Portfolio! This repository showcases my skills and experience in the field of data analytics & visualization. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
+Welcome to my Data Analytics Portfolio! This repository showcases my skills and experience in the field of data analytics and visualization. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
 
 ## Table of Contents
 - [Project 1: Sales Performance & Analytics](https://github.com/prateekchauhands/sales-performance-analytics)
