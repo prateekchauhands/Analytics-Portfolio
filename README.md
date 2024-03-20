@@ -9,6 +9,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills and 
 - [Project 4: UPI vs Cards Performance Analysis](https://github.com/prateekchauhands/upi-vs-cards)
 - [Project 5: Spotify Charts Analytics](https://github.com/prateekchauhands/spotify-charts)
 - [Project 6: Global Protests Tracker](https://github.com/prateekchauhands/global-protests-tracker)
+- [Project 7: Football Teams Analysis](https://github.com/prateekchauhands/football-teams-analysis)
 
 ------------
 ## <a href="https://github.com/prateekchauhands/sales-performance-analytics" style="text-decoration:none">Project 1: Sales Performance & Analytics</a>
@@ -32,6 +33,11 @@ The project aims to analyze and visualize the country-wise and day-wise streams 
 
 ## <a href="https://github.com/prateekchauhands/global-protests-tracker" style="text-decoration:none">Project 6: Global Protests Tracker</a>
 This project aims to explore and visualize the anti-government protests across the world from 2017-2024. The data is sourced from the Carnegie Endowment For International Peace website and has been processed using Excel and Power Query Editor to create a database for easy management and analysis. Looker Studio has been used to explore the data visually and gain valuable insights.
+
+## <a href="https://github.com/prateekchauhands/football-teams-analysis" style="text-decoration:none">Project 7: Football Teams Analysis</a>
+This project aims to analyze and visualize the stats, performances, and comparisons of various football teams from the top 5 leagues across Europe from season 2001-02 onwards. The data is sourced from the Football-Data website. The data has been webscraped using Python and the Beautiful Soup package and exported to a CSV file. Then, the data has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
+
+![Football Teams Analysis Preview Image](/images/football-teams-analysis.png)
 
 ## Contact Me!
 Feel free to contact me at [Prateek Chauhan](mailto:prateekchauhan.ds@gmail.com) for any data-related projects, collaborations, questions or suggestions.
