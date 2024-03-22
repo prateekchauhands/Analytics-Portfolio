@@ -6,10 +6,11 @@ Welcome to my Data Analytics Portfolio! This repository showcases my skills and 
 - [Project 1: Sales Performance & Analytics](https://github.com/prateekchauhands/sales-performance-analytics)
 - [Project 2: Ad Inventory Analysis](https://github.com/prateekchauhands/ad-inventory-analytics)
 - [Project 3: AIDS in Africa](https://github.com/prateekchauhands/aids-in-africa)
-- [Project 4: UPI vs Cards Performance Analysis](https://github.com/prateekchauhands/upi-vs-cards)
-- [Project 5: Spotify Charts Analytics](https://github.com/prateekchauhands/spotify-charts)
-- [Project 6: Global Protests Tracker](https://github.com/prateekchauhands/global-protests-tracker)
-- [Project 7: Football Teams Analysis](https://github.com/prateekchauhands/football-teams-analysis)
+- [Project 4: Football Players Analysis](https://github.com/prateekchauhands/football-players-analysis)
+- [Project 5: UPI vs Cards Performance Analysis](https://github.com/prateekchauhands/upi-vs-cards)
+- [Project 6: Spotify Charts Analytics](https://github.com/prateekchauhands/spotify-charts)
+- [Project 7: Global Protests Tracker](https://github.com/prateekchauhands/global-protests-tracker)
+- [Project 8: Football Teams Analysis](https://github.com/prateekchauhands/football-teams-analysis)
 
 ------------
 ## <a href="https://github.com/prateekchauhands/sales-performance-analytics" style="text-decoration:none">Project 1: Sales Performance & Analytics</a>
@@ -23,18 +24,21 @@ The project aims to analyze and visualize key insights related to revenue, inven
 ## <a href="https://github.com/prateekchauhands/aids-in-africa" style="text-decoration:none">Project 3: AIDS in Africa</a>
 The purpose of the project is to analyze and visualize the HIV/AIDS related deaths data in Africa from 1990-2019. The data is sourced from Our World In Data website and has been processed using Excel and Power Query Editor to create a database for easy management and analysis. Looker Studio has been used to explore the data visually and gain valuable insights.
 
-## <a href="https://github.com/prateekchauhands/upi-vs-cards" style="text-decoration:none">Project 4: UPI vs Cards Performance Analysis</a>
+## <a href="https://github.com/prateekchauhands/football-players-analysis" style="text-decoration:none">Project 4: Football Players Analysis</a>
+The project aims to analyze and visualize the stats, performances, and comparisons of various football players from the top 5 leagues across Europe from season 2019-20 to 2021-22. The data is sourced from fbref website and has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
+
+## <a href="https://github.com/prateekchauhands/upi-vs-cards" style="text-decoration:none">Project 5: UPI vs Cards Performance Analysis</a>
 This project aims to analyze and visualize the exponential rise of UPI payments against credit and debit card transactions in India's digital payment system from Jan-21 to Jun-22. The data is sourced from the official government websites of NPCI (National Payments Corporation of India) and RBI (Reserve Bank of India). The data has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
 
 ![UPI vs Cards Preview Image](/images/upi-vs-cards-dashboard.png)
 
-## <a href="https://github.com/prateekchauhands/spotify-charts" style="text-decoration:none">Project 5: Spotify Charts Analytics</a>
+## <a href="https://github.com/prateekchauhands/spotify-charts" style="text-decoration:none">Project 6: Spotify Charts Analytics</a>
 The project aims to analyze and visualize the country-wise and day-wise streams of all the top performing artists for the period 1st January, 2017 to 31st December, 2021. The data is sourced from Kaggle and has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
 
-## <a href="https://github.com/prateekchauhands/global-protests-tracker" style="text-decoration:none">Project 6: Global Protests Tracker</a>
+## <a href="https://github.com/prateekchauhands/global-protests-tracker" style="text-decoration:none">Project 7: Global Protests Tracker</a>
 This project aims to explore and visualize the anti-government protests across the world from 2017-2024. The data is sourced from the Carnegie Endowment For International Peace website and has been processed using Excel and Power Query Editor to create a database for easy management and analysis. Looker Studio has been used to explore the data visually and gain valuable insights.
 
-## <a href="https://github.com/prateekchauhands/football-teams-analysis" style="text-decoration:none">Project 7: Football Teams Analysis</a>
+## <a href="https://github.com/prateekchauhands/football-teams-analysis" style="text-decoration:none">Project 8: Football Teams Analysis</a>
 This project aims to analyze and visualize the stats, performances, and comparisons of various football teams from the top 5 leagues across Europe from season 2001-02 onwards. The data is sourced from the Football-Data website. The data has been webscraped using Python and the Beautiful Soup package and exported to a CSV file. Then, the data has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
 
 ![Football Teams Analysis Preview Image](/images/football-teams-analysis.png)
